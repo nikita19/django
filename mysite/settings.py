@@ -25,7 +25,7 @@ SECRET_KEY = '7l!38=&vzz$mmno1tmz)12(pe&mij7kz^maj8w&zy58af1ms$m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['wyki.pythonanywhere.com']
 
 
 # Application definition
